@@ -1,0 +1,22 @@
+man here
+also ahmed
+
+mkdir project
+cd project
+git init
+ls
+git add .
+git commit -m "this is my change
+
+git log 
+git log --author="ahmr"
+git log --untill=2018-3-10
+git log --grep="message"
+git rm fileName
+git diff --color-words mydirct/duc1.txt
+git diff -am "add and make message"
+git reflog
+git reset
+git remote
+git remote -v
+git push
