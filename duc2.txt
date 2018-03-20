@@ -14,3 +14,4 @@ git log --grep="message"
 git status
 git diff
 git diff duc3.txt
+zzzzzzzzzzz aaaaaa
