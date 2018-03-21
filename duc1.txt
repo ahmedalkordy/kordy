@@ -1,6 +1,6 @@
 man here
 also ahmed
-
+we are here
 mkdir project
 cd project
 git init
@@ -20,5 +20,8 @@ git reset
 git remote
 git remote -v
 git push
+<<<<<<< HEAD
 git fetch
 git merge kord/master
+=======
+>>>>>>> kord/master
