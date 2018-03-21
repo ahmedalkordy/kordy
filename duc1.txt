@@ -23,5 +23,7 @@ git push
 <<<<<<< HEAD
 git fetch
 git merge kord/master
+git pull
+
 =======
 >>>>>>> kord/master
