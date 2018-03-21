@@ -20,3 +20,5 @@ git reset
 git remote
 git remote -v
 git push
+git fetch
+git merge kord/master
