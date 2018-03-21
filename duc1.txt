@@ -1,6 +1,6 @@
 man here
 also ahmed
-
+we are here
 mkdir project
 cd project
 git init
